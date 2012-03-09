@@ -1,0 +1,4 @@
+RESTful WebService emulating an e-shop system
+uses j2EE6, Glassfish 3.1.1
+
+supposed to work with my eShopRESTClient repo
